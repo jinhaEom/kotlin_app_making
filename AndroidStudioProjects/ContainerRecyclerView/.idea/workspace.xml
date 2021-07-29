@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8f6cec00-80d1-42c1-aee9-054dc6f32e31" name="Default Changelist" comment="sipnner" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../ContainerRecyclerView\exportToHTML" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1vvffozvkXPa6Cfp3C27veyEiXC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ContainerSpinner" />
+    <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="ContainerRecyclerView.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\USER\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f6cec00-80d1-42c1-aee9-054dc6f32e31" name="Default Changelist" comment="" />
+      <created>1627447588726</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627447588726</updated>
+    </task>
+    <task id="LOCAL-00001" summary="sipnner">
+      <created>1627450468436</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1627450468436</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="spinner&#10;" />
+    <MESSAGE value="spinner" />
+    <MESSAGE value="sipnner" />
+    <option name="LAST_COMMIT_MESSAGE" value="sipnner" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="118" y="0" key="CommitChangelistDialog2" timestamp="1627449286162">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="118" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1627449286162" />
+    <state x="97" y="80" key="DiffContextDialog" timestamp="1627450685882">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="97" y="80" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1627450685882" />
+    <state x="421" y="82" key="FileChooserDialogImpl" timestamp="1627451145878">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="82" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1627451145878" />
+    <state x="485" y="238" key="Github.ShareDialog" timestamp="1627450979217">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="485" y="238" key="Github.ShareDialog/0.0.1280.680@0.0.1280.680" timestamp="1627450979217" />
+    <state x="227" y="42" key="RollbackChangesDialog" timestamp="1627449865895">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="227" y="42" key="RollbackChangesDialog/0.0.1280.680@0.0.1280.680" timestamp="1627449865895" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1627448412434">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1627448412434" />
+    <state x="209" y="103" key="Vcs.Push.Dialog.v2" timestamp="1627450785781">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="209" y="103" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1627450785781" />
+    <state x="505" y="261" key="svn.passwordDialog" timestamp="1627450853448">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="505" y="261" key="svn.passwordDialog/0.0.1280.680@0.0.1280.680" timestamp="1627450853448" />
+    <state x="471" y="48" width="537" height="632" key="svn.repositoryBrowser" timestamp="1627450958571">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="471" y="48" width="537" height="632" key="svn.repositoryBrowser/0.0.1280.680@0.0.1280.680" timestamp="1627450958571" />
+    <state x="449" y="242" key="svn.upgradeDialog" timestamp="1627448614622">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="449" y="242" key="svn.upgradeDialog/0.0.1280.680@0.0.1280.680" timestamp="1627448614622" />
+    <state x="355" y="205" key="svn4idea.export.options" timestamp="1627450119871">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="355" y="205" key="svn4idea.export.options/0.0.1280.680@0.0.1280.680" timestamp="1627450119871" />
+    <state x="412" y="103" key="svn4idea.import.options" timestamp="1627450937917">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="412" y="103" key="svn4idea.import.options/0.0.1280.680@0.0.1280.680" timestamp="1627450937917" />
+  </component>
+</project>
