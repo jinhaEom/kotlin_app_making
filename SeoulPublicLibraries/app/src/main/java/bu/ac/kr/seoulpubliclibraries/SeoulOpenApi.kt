@@ -8,7 +8,7 @@ import retrofit2.http.Path
 class SeoulOpenApi {
     companion object {
         val DOMAIN = "http://openAPI.seoul.go.kr:8088/"
-        val API_KEY = "464b695052756d6a3738726b505a51"
+        val API_KEY = "api 키 입력"
     }
 }
 
