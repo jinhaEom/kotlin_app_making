@@ -12,6 +12,7 @@ import com.google.firebase.ktx.Firebase
 import java.lang.Exception
 
 class SplashActivity : AppCompatActivity() {
+
     private lateinit var auth: FirebaseAuth
 
     override fun onCreate(savedInstanceState: Bundle?) {
