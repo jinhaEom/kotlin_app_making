@@ -4,6 +4,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.webkit.WebView
 import android.widget.TextView
+import android.widget.Toast
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.auth.ktx.auth
 import com.google.firebase.database.ktx.database
@@ -36,6 +37,7 @@ class ViewActivity : AppCompatActivity() {
                 .child(auth.currentUser!!.uid)
                 .push()
                 .setValue(ContentsModel(url,ImageUrl,title))
+            Toast.makeText(this,"북마크에 저장되었습니다.",Toast.LENGTH_SHORT).show()
         }
 
     }

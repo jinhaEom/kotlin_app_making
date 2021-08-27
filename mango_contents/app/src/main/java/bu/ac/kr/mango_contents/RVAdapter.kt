@@ -9,22 +9,24 @@ import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 
-class RVAdapter(val context : Context, val List : MutableList<ContentsModel>): RecyclerView.Adapter<RVAdapter.ViewHolder>() {
+class RVAdapter(val context : Context, val List : MutableList<ContentsModel>) : RecyclerView.Adapter<RVAdapter.ViewHolder>() {
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): RVAdapter.ViewHolder {
-        val v = LayoutInflater.from(parent.context).inflate(R.layout.rv_item,parent,false)
+        val v = LayoutInflater.from(parent.context).inflate(R.layout.rv_item, parent, false)
 
         return ViewHolder(v)
-
     }
-    interface ItemClick{
+
+    interface ItemClick
+    {
         fun onClick(view : View, position: Int)
     }
     var itemClick : ItemClick? = null
 
     override fun onBindViewHolder(holder: RVAdapter.ViewHolder, position: Int) {
-        if (itemClick!=null){
+
+        if (itemClick != null) {
             holder?.itemView.setOnClickListener { v->
-                itemClick!!.onClick(v,position)
+                itemClick!!.onClick(v, position)
             }
         }
         holder.bindItems(List[position])
@@ -34,11 +36,11 @@ class RVAdapter(val context : Context, val List : MutableList<ContentsModel>): R
         return List.size
     }
 
-    inner class ViewHolder(itemView : View) : RecyclerView.ViewHolder(itemView){
+    inner class ViewHolder(itemView : View) : RecyclerView.ViewHolder(itemView) {
 
-        fun bindItems(item : ContentsModel){
-            val rv_img = itemView.findViewById<ImageView>(R.id.rvImageArea)
+        fun bindItems(item : ContentsModel) {
             val rv_text = itemView.findViewById<TextView>(R.id.rvTextArea)
+            val rv_img = itemView.findViewById<ImageView>(R.id.rvImageArea)
 
             rv_text.text = item.titleText
             Glide.with(context)
@@ -46,6 +48,7 @@ class RVAdapter(val context : Context, val List : MutableList<ContentsModel>): R
                 .into(rv_img)
         }
     }
+
 
 
 }
