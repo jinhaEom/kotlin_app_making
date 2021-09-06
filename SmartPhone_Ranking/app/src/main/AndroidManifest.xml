@@ -10,6 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.SmartPhone_Ranking">
         <activity
+            android:name=".DetailActivity"
+            android:exported="true" />
+        <activity
+            android:name=".galaxyfold3"
+            android:exported="true" />
+        <activity
             android:name=".flip3"
             android:exported="true" />
         <activity
@@ -23,7 +29,7 @@
         </activity>
         <activity
             android:name=".MainActivity"
-            android:exported="true"></activity>
+            android:exported="true" />
     </application>
 
 </manifest>

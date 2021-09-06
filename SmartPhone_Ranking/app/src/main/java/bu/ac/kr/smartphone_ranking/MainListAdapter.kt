@@ -41,6 +41,7 @@ class MainListAdapter(val context: Context, val smartPhoneList: ArrayList<SmartP
         phoneName.text= phone.name
         phoneRanking.text=phone.ranking
 
+
         return convertView!!
     }
 
